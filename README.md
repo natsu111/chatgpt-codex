@@ -1,5 +1,5 @@
 # chatgpt-codex
 
-This repository now contains a simple single-page website promoting premium coffee.
+This repository contains a small static website showcasing premium coffee art.
 
-Open `index.html` in your browser to view the page. The center of the page shows a coffee art image along with a short description and product introduction.
+Open `index.html` in your browser to view the page. The site includes a hero section, a short introduction and a small gallery. To customize the images, place your own files in the `images` folder and update the file names in `index.html` if necessary.
