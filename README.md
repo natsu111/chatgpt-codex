@@ -1,11 +1,5 @@
 # chatgpt-codex
 
-This repository contains a simple Hello World script.
+This repository now contains a simple single-page website promoting premium coffee.
 
-Run the script with:
-
-```bash
-python hello_world.py
-```
-
-The script prints "Hello world" to stdout.
+Open `index.html` in your browser to view the page. The center of the page shows a coffee art image along with a short description and product introduction.
